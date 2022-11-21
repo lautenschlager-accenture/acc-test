@@ -1,0 +1,22 @@
+{
+  "name": "node-express-simple-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple Node.js + Express boilerplate project.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "Andy",
+  "license": "ISC"
+}
